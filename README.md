@@ -31,5 +31,21 @@ https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-
 
 http://flowers.shuvar.com/
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-FREELANCE 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FREELANCE
+
+| Evalsys
+  
+![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
+
+https://evalsys.pro/
+
+| Bibrka educational institution
+  
+| VSmak
+  
+![vsmak main](https://user-images.githubusercontent.com/48102250/209559427-20fda159-5bef-4546-8c52-bf2e2eb78b69.JPG)
+
+https://vsmak.com.ua/
+  
