@@ -1,8 +1,10 @@
 SHUVAR MARKET
 
 |Shuvar SSPT
-
+<div style="width:60px ; height:60px">
 ![main](https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png)
+<div>
+
 ![баланс](https://user-images.githubusercontent.com/48102250/209557040-0612da29-a8b3-4311-9462-6ad2867c7895.PNG)
 ![вибір_оплати](https://user-images.githubusercontent.com/48102250/209557069-55fddb1b-42fc-440d-9f96-698dce87bdf1.PNG)
 ![послуги](https://user-images.githubusercontent.com/48102250/209557048-ffb2efaf-8b31-44c0-b9e6-de4acec25c66.PNG)
@@ -17,8 +19,11 @@ SHUVAR MARKET
 
 |Shuvar WP
 
+https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-ab18-ad6d937fa498.mp4
+
 |Shuvar Flowers
 
-flowers.shuvar.com
+http://flowers.shuvar.com/
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 FREELANCE 
