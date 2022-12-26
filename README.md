@@ -57,6 +57,10 @@ FREELANCE
 https://evalsys.pro/
 
 | Bibrka educational institution  (frontend and backend)
+
+<div>
+<img src="https://user-images.githubusercontent.com/48102250/209565343-11090c2b-fee0-4b14-8f95-f34da557de29.png" height="150" width="24%" style="margin: 0 10px" >
+<div>
   
 | VSmak  (frontend and backend)
   
