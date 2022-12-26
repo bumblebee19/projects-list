@@ -1,7 +1,7 @@
 SHUVAR MARKET
 
 |Shuvar SSPT
-<img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="60" width="60" >
+<img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="20%" width="20%" >
 ![main](https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png)
 <div>
 
