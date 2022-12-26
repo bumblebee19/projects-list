@@ -19,17 +19,17 @@ SHUVAR MARKET
 <img src="https://user-images.githubusercontent.com/48102250/209557059-4712e161-1e2f-4fd7-a176-a03d073c32cf.PNG" height="200" width="24%" style="margin: 0 10px">
 <div>
   
-| Shuvar SOA
-
-| Shuvar WP
-
-https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-ab18-ad6d937fa498.mp4
-
 | Shuvar Flowers
   
 ![flowers main](https://user-images.githubusercontent.com/48102250/209559086-864e3298-b845-4804-a38a-328fc9ad28f7.JPG)
 
 http://flowers.shuvar.com/
+  
+| Shuvar SOA
+
+| Shuvar WP
+
+https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-ab18-ad6d937fa498.mp4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
