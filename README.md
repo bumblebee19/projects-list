@@ -37,7 +37,7 @@ http://online.shuvar.com/
 
 | Shuvar WP (frontend and backend)
 
-https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-ab18-ad6d937fa498.mp4
+https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-8743-89bd79a6337c.mp4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
