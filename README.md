@@ -1,6 +1,11 @@
 SHUVAR MARKET
 
-| Shuvar SSPT
+| Shuvar Market (support frontend and backend)
+![shuvar main](https://user-images.githubusercontent.com/48102250/209559943-30a5f7ca-0cf5-407a-b3f8-f7a105807049.JPG)
+
+https://shuvar.com/
+
+| Shuvar SSPT (frontend)
 
 <div>
 <img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="200" width="24%" style="margin: 0 10px">
@@ -19,15 +24,15 @@ SHUVAR MARKET
 <img src="https://user-images.githubusercontent.com/48102250/209557059-4712e161-1e2f-4fd7-a176-a03d073c32cf.PNG" height="200" width="24%" style="margin: 0 10px">
 <div>
   
-| Shuvar Flowers
+| Shuvar Flowers (frontend)
   
 ![flowers main](https://user-images.githubusercontent.com/48102250/209559086-864e3298-b845-4804-a38a-328fc9ad28f7.JPG)
 
 http://flowers.shuvar.com/
   
-| Shuvar SOA
+| Shuvar SOA (frontend and backend)
 
-| Shuvar WP
+| Shuvar WP (frontend and backend)
 
 https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-ab18-ad6d937fa498.mp4
 
@@ -35,15 +40,15 @@ https://user-images.githubusercontent.com/48102250/209557598-acf49201-b825-4119-
 
 FREELANCE
 
-| Evalsys
+| Evalsys  (frontend)
   
 ![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
 
 https://evalsys.pro/
 
-| Bibrka educational institution
+| Bibrka educational institution  (frontend and backend)
   
-| VSmak
+| VSmak  (frontend and backend)
   
 ![vsmak main](https://user-images.githubusercontent.com/48102250/209559427-20fda159-5bef-4546-8c52-bf2e2eb78b69.JPG)
 
