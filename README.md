@@ -65,7 +65,7 @@ https://evalsys.pro/
 <img src="https://user-images.githubusercontent.com/48102250/209565488-9fb412a9-16ef-4d98-9e1e-6cf2aa5fda5f.png" height="150" width="24%" style="margin: 0 10px" >
 <div>
 
-| VSmak  (frontend and backend)
+| VSmak  (suport frontend and backend)
   
 ![vsmak main](https://user-images.githubusercontent.com/48102250/209559427-20fda159-5bef-4546-8c52-bf2e2eb78b69.JPG)
 
