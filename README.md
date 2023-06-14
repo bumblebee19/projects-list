@@ -1,3 +1,7 @@
+CV
+[Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
+
+
 SHUVAR MARKET NEW
 
 | Shuvar Market (frontend)
