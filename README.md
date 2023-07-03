@@ -18,7 +18,7 @@ SHUVAR MARKET
 
 https://shuvar.com/
 
-| Shuvar SSPT (frontend)
+| Shuvar SSPT (frontend Angular)
 
 <div>
 <img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="150" width="24%" style="margin: 0 10px">
@@ -43,7 +43,7 @@ https://shuvar.com/
 
 http://flowers.shuvar.com/
   
-| Shuvar SOA (frontend and backend)
+| Shuvar SOA (frontend Angular and backend DRF)
 
 <div>
 <img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="150" width="24%" style="margin: 0 10px" >
@@ -54,7 +54,7 @@ http://flowers.shuvar.com/
 
 http://online.shuvar.com/
 
-| Shuvar WP (frontend and backend)
+| Shuvar WP (frontend Angular and backend DRF)
 
 https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-8743-89bd79a6337c.mp4
 
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-
 
 FREELANCE
 
-| Evalsys  (frontend)
+| Evalsys  (frontend Angular)
   
 ![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
 
