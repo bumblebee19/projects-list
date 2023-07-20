@@ -1,6 +1,11 @@
 CV
 [Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
 
+| Evalsys  (frontend Angular)
+  
+![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
+
+https://evalsys.pro/
 
 SHUVAR MARKET NEW
 
@@ -59,14 +64,6 @@ http://online.shuvar.com/
 https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-8743-89bd79a6337c.mp4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-FREELANCE
-
-| Evalsys  (frontend Angular)
-  
-![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
-
-https://evalsys.pro/
 
 | Bibrka educational institution  (frontend and backend)
 
