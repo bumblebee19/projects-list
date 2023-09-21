@@ -19,14 +19,6 @@ SHUVAR MARKET NEW
 
 ![shuvar_main_new](https://github.com/bumblebee19/projects-list/assets/48102250/813d3470-17e2-46e6-9bcb-81d9658cff27)
 
-https://test.shuvar.com/
-
-SHUVAR MARKET
-
-| Shuvar Market (support frontend and backend)
-
-![shuvar main](https://user-images.githubusercontent.com/48102250/209559943-30a5f7ca-0cf5-407a-b3f8-f7a105807049.JPG)
-
 https://shuvar.com/
 
 | Shuvar SSPT (frontend Angular)
