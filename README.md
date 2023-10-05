@@ -1,6 +1,12 @@
 CV
 [Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
 
+| Karamelio (frontend and backend)
+
+![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
+
+https://www.karamelio.com.ua/
+
 | Українські смаки (frontend and backend)
 
 ![ukrainskismaky](https://github.com/bumblebee19/projects-list/assets/48102250/f6041eb2-18eb-4eff-bd2b-bca8f53fccb2)
