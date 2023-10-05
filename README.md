@@ -66,14 +66,3 @@ http://online.shuvar.com/
 | Shuvar WP (frontend Angular and backend DRF)
 
 https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-8743-89bd79a6337c.mp4
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-| Bibrka educational institution  (frontend and backend)
-
-<div>
-<img src="https://user-images.githubusercontent.com/48102250/209565343-11090c2b-fee0-4b14-8f95-f34da557de29.png" height="150" width="24%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209565401-e99f210a-5074-4f7d-9cd4-fbe30700ab35.png" height="150" width="24%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209565405-08d29804-592c-4bbb-83f3-fa92521866c8.png" height="150" width="24%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209565488-9fb412a9-16ef-4d98-9e1e-6cf2aa5fda5f.png" height="150" width="24%" style="margin: 0 10px" >
-<div>
