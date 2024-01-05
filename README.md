@@ -1,6 +1,12 @@
 CV
 [Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
 
+| Aplus (frontend and backend)
+
+![aplusstore](https://github.com/bumblebee19/projects-list/assets/48102250/f4c1c7b5-8749-4840-a6bc-1b575035f577)
+
+https://www.aplusstore.com.ua/
+
 | Karamelio (frontend and backend)
 
 ![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
