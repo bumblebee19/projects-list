@@ -1,6 +1,12 @@
 CV
 [Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
 
+| TK Shuvar (frontend and backend)
+
+![tk_shuvar](https://github.com/user-attachments/assets/b01f0052-50df-4d68-9ea8-939eb1b0b0ba)
+
+https://tk.shuvar.com/
+
 | Aplus (frontend and backend)
 
 ![aplusstore](https://github.com/bumblebee19/projects-list/assets/48102250/f4c1c7b5-8749-4840-a6bc-1b575035f577)
@@ -19,7 +25,7 @@ https://shuvar.com/
 
 | Shuvar SSPT (frontend Angular)
 
-<div>
+<div >
 <img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="150" width="24%" style="margin: 0 10px">
 <img src="https://user-images.githubusercontent.com/48102250/209557040-0612da29-a8b3-4311-9462-6ad2867c7895.PNG" height="150" width="24%" style="margin: 0 10px" >
 <img src="https://user-images.githubusercontent.com/48102250/209557069-55fddb1b-42fc-440d-9f96-698dce87bdf1.PNG" height="150" width="24%" style="margin: 0 10px" >
@@ -31,17 +37,7 @@ https://shuvar.com/
 <img src="https://user-images.githubusercontent.com/48102250/209557147-04f1cdcb-7883-4e0b-90b0-f904c04dc461.PNG" height="150" width="24%" style="margin: 0 10px">
 <img src="https://user-images.githubusercontent.com/48102250/209557140-fe536027-2a87-48d6-9247-26a3e0905f1a.PNG" height="150" width="24%" style="margin: 0 10px">
 <div>
-  
-| Karamelio (frontend and backend)
 
-![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
-
-| Shuvar Flowers (frontend)
-  
-![flowers main](https://user-images.githubusercontent.com/48102250/209559086-864e3298-b845-4804-a38a-328fc9ad28f7.JPG)
-
-http://flowers.shuvar.com/
-  
 | Shuvar SOA (frontend Angular and backend DRF)
 
 <div>
@@ -53,6 +49,14 @@ http://flowers.shuvar.com/
   
 http://online.shuvar.com/
 
-| Shuvar WP (frontend Angular and backend DRF)
+| Karamelio (frontend and backend)
 
-https://user-images.githubusercontent.com/48102250/209561980-49fdb5e7-5f21-4f8d-8743-89bd79a6337c.mp4
+![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
+
+| Shuvar Flowers (frontend)
+  
+![flowers main](https://user-images.githubusercontent.com/48102250/209559086-864e3298-b845-4804-a38a-328fc9ad28f7.JPG)
+
+http://flowers.shuvar.com/
+
+
