@@ -1,5 +1,6 @@
 CV
-[Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
+[Stetsko CV.pdf](https://github.com/user-attachments/files/21484468/Stetsko.CV.pdf)
+
 
 | Aplus (frontend and backend)
 
