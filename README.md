@@ -1,12 +1,6 @@
 CV
 [Stetsko CV.pdf](https://github.com/bumblebee19/projects-list/files/11746561/Stetsko.CV.pdf)
 
-| TK Shuvar (frontend and backend)
-
-![tk_shuvar](https://github.com/user-attachments/assets/b01f0052-50df-4d68-9ea8-939eb1b0b0ba)
-
-https://tk.shuvar.com/
-
 | Aplus (frontend and backend)
 
 ![aplusstore](https://github.com/bumblebee19/projects-list/assets/48102250/f4c1c7b5-8749-4840-a6bc-1b575035f577)
@@ -23,6 +17,29 @@ https://www.aplusstore.com.ua/
 
 https://shuvar.com/
 
+| Shuvar SOA (frontend Angular and backend DRF)
+
+<div>
+<img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="150" width="49%" style="margin: 0 10px" >
+<img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="150" width="49%" style="margin: 0 10px">
+<div>
+<div>
+<img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="150" width="49%" style="margin: 0 10px" >
+<img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="150" width="49%" style="margin: 0 10px" >
+<div>
+
+| Megabolt (frontend and backend)
+
+![megabolt](https://github.com/user-attachments/assets/cded7b9b-329f-4b43-9eda-12bef032e114)
+
+https://megabolt-mb.com/
+
+| TK Shuvar (frontend and backend)
+
+![tk_shuvar](https://github.com/user-attachments/assets/dca12cc5-a1e2-47f2-9f21-09ac8ceacd69)
+
+https://tk.shuvar.com/
+
 | Shuvar SSPT (frontend Angular)
 
 <div >
@@ -37,17 +54,6 @@ https://shuvar.com/
 <img src="https://user-images.githubusercontent.com/48102250/209557147-04f1cdcb-7883-4e0b-90b0-f904c04dc461.PNG" height="150" width="24%" style="margin: 0 10px">
 <img src="https://user-images.githubusercontent.com/48102250/209557140-fe536027-2a87-48d6-9247-26a3e0905f1a.PNG" height="150" width="24%" style="margin: 0 10px">
 <div>
-
-| Shuvar SOA (frontend Angular and backend DRF)
-
-<div>
-<img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="150" width="24%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="150" width="24%" style="margin: 0 10px">
-<img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="150" width="24%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="150" width="24%" style="margin: 0 10px" >
-<div>
-  
-http://online.shuvar.com/
 
 | Karamelio (frontend and backend)
 
