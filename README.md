@@ -11,11 +11,9 @@ https://www.aplusstore.com.ua/
 
 ![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
 
-https://www.karamelio.com.ua/
 
 | Українські смаки (frontend and backend)
 
-![ukrainskismaky](https://github.com/bumblebee19/projects-list/assets/48102250/f6041eb2-18eb-4eff-bd2b-bca8f53fccb2)
 
 https://www.ukrainskismaky.com.ua/
 
@@ -23,9 +21,8 @@ https://www.ukrainskismaky.com.ua/
 
 ![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
 
-https://evalsys.pro/
 
-SHUVAR MARKET NEW
+SHUVAR MARKET
 
 | Shuvar Market (frontend)
 
