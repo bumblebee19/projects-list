@@ -18,7 +18,6 @@ https://www.aplusstore.com.ua/
 | Shuvar Market (frontend)
 
 ![shuvar_main_new](https://github.com/bumblebee19/projects-list/assets/48102250/813d3470-17e2-46e6-9bcb-81d9658cff27)
-<img width="2006" height="888" alt="shuvar_main" src="https://github.com/user-attachments/assets/9c02280f-9a45-4c4a-bd61-aa0279108821" />
 
 https://shuvar.com/
 
