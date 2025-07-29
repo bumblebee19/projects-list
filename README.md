@@ -21,12 +21,12 @@ https://shuvar.com/
 | Shuvar SOA (frontend Angular and backend DRF)
 
 <div>
-<img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="150" width="49%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="150" width="49%" style="margin: 0 10px">
+<img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="300" width="49%">
+<img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="300" width="50%">
 <div>
 <div>
-<img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="150" width="49%" style="margin: 0 10px" >
-<img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="150" width="49%" style="margin: 0 10px" >
+<img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="300" width="49%">
+<img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="300" width="50%" >
 <div>
 
 | Megabolt (frontend and backend)
