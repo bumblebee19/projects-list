@@ -20,14 +20,16 @@ https://shuvar.com/
 
 | Shuvar SOA (frontend Angular and backend DRF)
 
-<div>
-<img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="300" width="49%">
-<img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="300" width="50%">
-<div>
-<div>
-<img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="300" width="49%">
-<img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="300" width="50%" >
-<div>
+<table>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209562782-0a57b361-27c2-4fa8-8023-b4b77fc2d343.JPG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209562601-9aa4a718-bf57-4a8b-b2dd-b6f929d4c117.JPG" height="300" width="100%"></td>
+</tr>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209562603-4c342791-4877-48a9-944f-fccda1fd238b.JPG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209562604-69acb1a9-6d4d-476c-8479-0b0deced47eb.JPG" height="300" width="100%"></td>
+</tr>
+</table>
 
 | Megabolt (frontend and backend)
 
@@ -43,18 +45,20 @@ https://tk.shuvar.com/
 
 | Shuvar SSPT (frontend Angular)
 
-<div >
-<img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="175" width="24%">
-<img src="https://user-images.githubusercontent.com/48102250/209557040-0612da29-a8b3-4311-9462-6ad2867c7895.PNG" height="175" width="24%">
-<img src="https://user-images.githubusercontent.com/48102250/209557069-55fddb1b-42fc-440d-9f96-698dce87bdf1.PNG" height="175" width="25%">
-<img src="https://user-images.githubusercontent.com/48102250/209557048-ffb2efaf-8b31-44c0-b9e6-de4acec25c66.PNG" height="175" width="25%" >
-<div>
-<div>
-<img src="https://user-images.githubusercontent.com/48102250/209557130-5466891e-7125-4eb1-a403-45d364ba8bb9.PNG" height="175" width="24%">
-<img src="https://user-images.githubusercontent.com/48102250/209557135-b98a8750-1a23-4a2f-a0f8-524808f0af1e.PNG" height="175" width="24%">
-<img src="https://user-images.githubusercontent.com/48102250/209557147-04f1cdcb-7883-4e0b-90b0-f904c04dc461.PNG" height="175" width="25%">
-<img src="https://user-images.githubusercontent.com/48102250/209557140-fe536027-2a87-48d6-9247-26a3e0905f1a.PNG" height="175" width="25%">
-<div>
+<table>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557021-cfdce3c4-e927-4f71-bc25-b609e6439a92.png" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557040-0612da29-a8b3-4311-9462-6ad2867c7895.PNG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557069-55fddb1b-42fc-440d-9f96-698dce87bdf1.PNG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557048-ffb2efaf-8b31-44c0-b9e6-de4acec25c66.PNG" height="300" width="100%"></td>
+</tr>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557130-5466891e-7125-4eb1-a403-45d364ba8bb9.PNG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557135-b98a8750-1a23-4a2f-a0f8-524808f0af1e.PNG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557147-04f1cdcb-7883-4e0b-90b0-f904c04dc461.PNG" height="300" width="100%"></td>
+  <td><img src="https://user-images.githubusercontent.com/48102250/209557140-fe536027-2a87-48d6-9247-26a3e0905f1a.PNG" height="300" width="100%"></td>
+</tr>
+</table>
 
 | Ganis IT (frontend and backend)
 
