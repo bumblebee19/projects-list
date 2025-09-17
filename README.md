@@ -10,7 +10,7 @@ https://www.aplusstore.com.ua/
 
 | Evalsys  (frontend Angular)
 
-![evalsys main](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
+![evalsys](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
 
 | Shuvar Market (frontend)
 
@@ -56,9 +56,11 @@ https://tk.shuvar.com/
 <img src="https://user-images.githubusercontent.com/48102250/209557140-fe536027-2a87-48d6-9247-26a3e0905f1a.PNG" height="175" width="25%">
 <div>
 
-| Karamelio (frontend and backend)
+| Ganis IT (frontend and backend)
 
-![karamelio](https://github.com/bumblebee19/projects-list/assets/48102250/d31006e9-2bcc-4af6-aba7-d1447b65c222)
+![ganis_it](https://github.com/user-attachments/assets/0307f324-e869-4265-8e42-0c861db96ef2)
+
+https://ganisit.com.ua/
 
 | Shuvar Flowers (frontend)
   
