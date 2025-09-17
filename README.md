@@ -1,6 +1,26 @@
-CV
-[Stetsko CV.pdf](https://github.com/user-attachments/files/21484468/Stetsko.CV.pdf)
+<b>Welcome 👋</b>
 
+<br>Hi everyone, and thanks for stopping by! Here you’ll find a collection of my projects with screenshots and live links. I am passionate about clean, maintainable code and always eager to learn new technologies.
+<br>I’m <b>Yaroslav Stetsko</b>, a Frontend Developer from Lviv, Ukraine, with 4+ years of experience in frontend development and a strong background in building:
+<ul>
+  <li>Dynamic websites & online stores</li>
+  <li>Web services for analytics and real-time data processing</li>
+  <li>Payment integrations & software for payment terminals</li>
+  <li>Custom web solutions</li>
+</ul>
+<br><b>Tech Stack ⚡</b>
+
+<br><b>Frontend:</b> Angular, Angular Material/CLI, TypeScript, JavaScript (ES6), RxJS, HTML, CSS/SCSS, Bootstrap, BEM, Responsive Design
+<br><b>Backend & DB:</b> Django, MySQL, REST API, Postman
+<br><b>CMS:</b> WordPress
+<br><b>Other tool and concepts:</b> Git, OOP, SOLID, Scrum, BEM
+
+<b>Contact me 📩</b>
+<br>Email: yaroslavstetsko99@gmail.com
+<br>LinkedIn: [Yaroslav Stetsko](https://www.linkedin.com/in/yaroslav-stetsko/)
+<br>CV: [Stetsko CV.pdf](https://github.com/user-attachments/files/21484468/Stetsko.CV.pdf)
+
+<br>✨ Feel free to explore the projects in this repository. If you’d like to collaborate or have any questions, don’t hesitate to reach out!
 
 | Aplus (frontend and backend)
 
