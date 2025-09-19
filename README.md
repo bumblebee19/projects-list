@@ -61,7 +61,7 @@ https://megabolt-mb.com/
 
 ![tk_shuvar](https://github.com/user-attachments/assets/dca12cc5-a1e2-47f2-9f21-09ac8ceacd69)
 
-https://tk.shuvar.com/
+http://3221612.tkshuvar.web.hosting-test.net/ (https://tk.shuvar.com/)
 
 | Shuvar SSPT (frontend Angular)
 
