@@ -28,9 +28,9 @@
 
 https://www.aplusstore.com.ua/
 
-| Evalsys  (frontend Angular)
+| Lazzy Football Crypto Web3 Game (frontend React)
 
-![evalsys](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
+![lazzy_football](https://github.com/user-attachments/assets/5d03bae1-b946-440f-8617-1493f6ae87c3)
 
 | Shuvar Market (frontend)
 
@@ -56,6 +56,10 @@ https://shuvar.com/
 ![megabolt](https://github.com/user-attachments/assets/cded7b9b-329f-4b43-9eda-12bef032e114)
 
 https://megabolt-mb.com/
+
+| Evalsys  (frontend Angular)
+
+![evalsys](https://user-images.githubusercontent.com/48102250/209559562-18651333-b2e1-4530-9c58-c94dd98917bd.JPG)
 
 | TK Shuvar (frontend and backend)
 
