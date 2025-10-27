@@ -32,6 +32,8 @@ https://www.aplusstore.com.ua/
 
 ![lazzy_football](https://github.com/user-attachments/assets/5d03bae1-b946-440f-8617-1493f6ae87c3)
 
+https://app.lazy.football/
+
 | Shuvar Market (frontend)
 
 ![shuvar_main](https://github.com/user-attachments/assets/62874a80-c4fa-4f9b-9362-4aee8101a823)
