@@ -26,7 +26,7 @@
 
 ![aplusstore](https://github.com/bumblebee19/projects-list/assets/48102250/f4c1c7b5-8749-4840-a6bc-1b575035f577)
 
-https://www.aplusstore.com.ua/
+https://aplusstore.com.ua/
 
 | Lazzy Football Crypto Web3 Game (frontend React)
 
